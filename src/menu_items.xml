@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<txt>
+	<Open>"{{filename}}"</Open>
+	<Edit>notepad "{{filename}}"</Edit>
+	<Open_in_VS_Code>code "{{filename}}"</Open_in_VS_Code>
+	<Open_in_{{browser_name}}>{{browser}} {{filename}}</Open_in_{{browser_name}}>
+	<Properties>python properties.pyw "{{filename}}"</Properties>
+</txt>
+<html>
+	<Preview>"{{filename}}"</Preview>
+	<Edit>notepad "{{filename}}"</Edit>
+	<Open_in_{{browser_name}}>{{browser}} {{filename}}</Open_in_{{browser_name}}>
+	<Open_in_VS_Code>code {{filename}}</Open_in_VS_Code>
+	<Properties>python properties.pyw "{{filename}}"</Properties>
+</html>
+<py>
+	<Run>"{{filename}}"</Run>
+	<Open_in_VS_Code>code {{filename}}</Open_in_VS_Code>
+	<Properties>python properties.pyw "{{filename}}"</Properties>
+</py>
+<default>
+	<Open>"{{filename}}"</Open>
+	<Properties>python properties.pyw "{{filename}}"</Properties>
+</default>
+<folder>
+	<Open>explorer "{{filename}}"</Open>
+	<Properties>python properties.pyw "{{filename}}"</Properties>
+</folder>
