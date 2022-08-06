@@ -2,6 +2,7 @@
 A custom desktop simulator written on top of the Irrlicht3d engine.
 
 ![](https://github.com/bruhmese-python/ardentdesktop/blob/master/preview.gif)
+###### Thanks to [Shrey Chapra](http://https://www.pexels.com/photo/multicolored-powder-photo-2041707/ "Shrey Chapra") for the awesome wallpaper photo
 
 ### Requirements
  - Irrlicht3d
