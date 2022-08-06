@@ -1,3 +1,8 @@
 
 *.xml linguist-language=XML
 *.xml linguist-detectable=true
+
+include/rapidxml.hpp export-ignore
+include/rapidxml_iterators.hpp export-ignore
+include/rapidxml_print.hpp export-ignore
+include/rapidxml_utils.hpp export-ignore
