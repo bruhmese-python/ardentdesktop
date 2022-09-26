@@ -1,5 +1,5 @@
 # ArdentDesktop
-A custom desktop simulator written on top of the Irrlicht3d engine.
+A custom desktop emulator written on top of the Irrlicht3d engine.
 
 See [preview.gif](https://github.com/bruhmese-python/ardentdesktop/blob/master/preview.gif/ "Preview") for preview
 ![](https://github.com/bruhmese-python/ardentdesktop/blob/master/main_preview.png)
